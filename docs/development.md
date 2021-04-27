@@ -129,7 +129,7 @@ Edit `bitstashcore-node.json` with something similar to:
 }
 ```
 
-**Note**: To install services [bitstash-api](https://github.com/BITSTASH/bitstash-api) and [bitstash-explorer](https://github.com/BITSTASH/bitstash-explorer) you'll need to clone the repositories locally.
+**Note**: To install services [bitstash-api](https://github.com/BitStashBlockchain/bitstash-api) and [bitstash-explorer](https://github.com/BitStashBlockchain/bitstash-explorer) you'll need to clone the repositories locally.
 
 Setup symlinks for all of the services and dependencies:
 

@@ -27,8 +27,8 @@ This will create a directory with configuration files for your node and install 
 
 There are several add-on services available to extend the functionality of BITSTASHCORE:
 
-- [BITSTASH Insight API](https://github.com/BITSTASH/bitstash-api)
-- [BITSTASH Explorer](https://github.com/BITSTASH/bitstash-explorer)
+- [BITSTASH Insight API](https://github.com/BitStashBlockchain/bitstash-api)
+- [BITSTASH Explorer](https://github.com/BitStashBlockchain/bitstash-explorer)
 
 ## Contributing
 
